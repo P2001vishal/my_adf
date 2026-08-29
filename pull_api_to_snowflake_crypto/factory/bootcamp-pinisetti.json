@@ -1,0 +1,15 @@
+{
+	"name": "bootcamp-pinisetti",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d9f7e1db-3ec4-47df-9f4e-082eb8cb5ea0",
+		"tenantId": "ed637cb6-8f8e-4025-8f68-4c7058e9f1f0"
+	}
+}
